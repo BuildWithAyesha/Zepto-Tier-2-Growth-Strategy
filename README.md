@@ -15,4 +15,5 @@ Tier-2 expansion should prioritize trust, affordability, localization, and repea
 
 ## About the Author
 Author: Ayesha Bamahdi
+
 Focus: Product Management | Growth Strategy | Digital Transformation
