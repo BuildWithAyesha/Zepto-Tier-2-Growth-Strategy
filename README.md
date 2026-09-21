@@ -3,7 +3,7 @@
 A product strategy and growth case study exploring how Zepto could expand into Tier-2 Indian cities by adapting its value proposition, user experience, go-to-market strategy, and operating model to local needs.
 
 ## Case Study Focus
-- ## Product Strategy ## — Trust, simplicity, localization, and repeat usage
+- Product Strategy — Trust, simplicity, localization, and repeat usage
 - User Experience — Hyperlocal carts, vernacular voice search, COD/UPI nudges, and easy reorder
 - Go-to-Market — Local influencers, vernacular campaigns, WhatsApp, radio, and offline activation
 - Business Strategy — 30-minute delivery, Kirana partnerships, micro-warehouses, and scalable operations
